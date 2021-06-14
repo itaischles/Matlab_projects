@@ -9,4 +9,4 @@ And a zoomed view to late times, at which steady state is reached:
 
 ![Lock-in amplifier signal vs. time (zoom)](Results/LIA_signal_vs_time_zoom.png)
 
-use an '<addr>'
+use an `<addr>`
