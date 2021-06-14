@@ -2,7 +2,9 @@ A small program I wrote to theoretically simulate the output signals originating
 Here are some sample results, also found in the *Results* folder:
 
 This is the simulated lock-in amplifier signal vs. time:
+
 ![Lock-in amplifier signal vs. time](Results/LIA_signal_vs_time.png)
 
 And a zoomed view to early times:
+
 ![Lock-in amplifier signal vs. time (zoom)](Results/LIA_signal_vs_time_zoom.png)
