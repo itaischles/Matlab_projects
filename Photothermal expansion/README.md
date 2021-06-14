@@ -8,11 +8,3 @@ This is the simulated lock-in amplifier signal vs. time:
 And a zoomed view to late times, at which steady state is reached:
 
 ![Lock-in amplifier signal vs. time (zoom)](Results/LIA_signal_vs_time_zoom.png)
-
-```python
-def function(s):
-  if s == 'str':
-    return 1
-  else:
-    return 0
-```
